@@ -8,5 +8,12 @@ main:
     url: /members/
   - title: "Projects"
     url: /projects/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Publications"
+    url: /publications/
+ - title: "Data"
+    url: /data/
+ - title: "Software"
+    url: /software/
+ 
+    
+    
