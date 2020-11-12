@@ -21,7 +21,11 @@ Bad at websites.
 
 <img src="/assets/images/Maitner_1.jpg" alt="Brian" class="inline"/>
 
-![Brian](/assets/images/Maitner_1.jpg)
+![Brian](https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg)
+
+![](https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true | width=100)
+
+
 
 
 
