@@ -10,9 +10,9 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
- - title: "Data"
+  - title: "Data"
     url: /data/
- - title: "Software"
+  - title: "Software"
     url: /software/
  
     
