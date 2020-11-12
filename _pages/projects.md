@@ -4,4 +4,10 @@ permalink: /projects/
 ---
 
 
-BioFI is doing stuff.
+### Cascading Hazards in Australia
+
+### Colorado Climate Change
+
+### Global Change Impacts on Amazonian Biodiversity
+
+### Understanding Emerging Hazards
