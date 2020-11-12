@@ -1,3 +1,8 @@
+---
+
+permalink: /members/
+---
+
 #Members
 
 ### Brian Maitner
