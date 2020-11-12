@@ -15,13 +15,13 @@ If it has more than one point, he can model it.
 Return of the GEDI.
 
 ### Brian S. Maitner
-{% include figure image_path="/assets/images/Maitner_1.jpg" alt="Brian" caption="Brian Maitner" width="2" %}
+{% include figure image_path="/assets/images/Maitner_1.jpg" alt="Brian" caption="Brian Maitner" max-width="2" %}
 
 Bad at websites.
 
-{% include figure image_path="/assets/images/Maitner_1.jpg" alt="Brian" caption="Brian Maitner" width="2px" %}
+<img src="/assets/images/Maitner_1.jpg" alt="Brian" class="inline"/>
 
-{% include figure image_path="/assets/images/Maitner_1.jpg" alt="Brian" caption="Brian Maitner" width=2 %}
+![Brian](/assets/images/Maitner_1.jpg)
 
-{% include figure image_path="/assets/images/Maitner_1.jpg" alt="Brian" caption="Brian Maitner" height=2 width=2 %}
+
 
