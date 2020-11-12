@@ -16,10 +16,11 @@ Return of the GEDI.
 
 ### Brian S. Maitner
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true" alt="Brian" width=200 align = left />
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true" alt="Brian" width=200 />
 
 Bad at websites.
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true" alt="Brian" width=200 />
 <BR CLEAR=left|right|all>
   Bad at websites.
+  
+  <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true" alt="Brian" width=200 align = left />
