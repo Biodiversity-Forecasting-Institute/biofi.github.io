@@ -19,7 +19,3 @@ Return of the GEDI.
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true" alt="Brian" width=200 />
 
 Bad at websites.
-
-  Bad at websites.
-  
-  <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true" alt="Brian" width=200 align = left />
