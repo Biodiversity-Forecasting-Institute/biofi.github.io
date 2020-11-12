@@ -23,3 +23,5 @@ Bad at websites.
 
 {% include figure image_path="/assets/images/Maitner_1.jpg" alt="Brian" caption="Brian Maitner" width=2 %}
 
+{% include figure image_path="/assets/images/Maitner_1.jpg" alt="Brian" caption="Brian Maitner" height=2 width=2 %}
+
