@@ -27,5 +27,5 @@ Bad at websites.
 
 
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg" width=10 align=right>
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg" width=20 align=left>
 
