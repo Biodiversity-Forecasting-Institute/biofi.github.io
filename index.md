@@ -3,6 +3,6 @@ layout: splash
 author_profile: true
 ---
 
-# Biodiversity Forecasting Institute
+# Biodiversity and Biosphere Forecasting Institute
 
-The Biodiversity Forecasting Institute (BioFi) does both things and stuff, and is generally awesome.
+The Biodiversity and Biosphere Forecasting Institute (Bio2Fi) does both things and stuff, and is generally awesome.
