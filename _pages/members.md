@@ -22,6 +22,7 @@ Bad at websites.
 
 ### Patrick R. Roehrdanz
 *Manager, Spatial Planning for Area Conservation in Response to Climate Change (SPARC)*
+
 Moore Center for Science, Conservation International
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Roehrdanz.jpg?raw=true" alt="Patrick" width=200 />
