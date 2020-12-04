@@ -8,14 +8,15 @@ Hannah, L., P. R. Roehrdanz, P. A. Marquet, B. J. Enquist, G. Midgley, W. Foden,
 * *Ecography Editor's Choice*
 * Subject of Ecography's first ever <a href = "https://soundcloud.com/george-chan-838071481/climate-change-how-much-land-do-we-need-to-protect-to-prevent-mass-extinctions">podcast</a>
 * <a href = "https://www.youtube.com/watch?v=LKHHYAWvNe4">Video Abstract</a>
-* Wide press coverage (e.g. <a href = "https://www.scientificamerican.com/article/how-to-dramatically-curb-extinction/">Scientific American</a> )
+* Covered by <a href = "https://www.scientificamerican.com/article/how-to-dramatically-curb-extinction/">Scientific American</a>, <a href = "https://www.campaignfornature.org/science-page">Campaign for Nature</a>, and <a href = "https://forestsnews.cifor.org/64501/recipe-for-slowing-species-loss-and-cutting-extinction-risk-in-half?fnl=">Forests News</a>.
+
 
 
 Merow, C., M. Urban. 2020. Seasonality and uncertainty in global COVID-19 growth rates. Proceedings of the National Academy of Sciences. In press.
 * Covered by the <a href = "https://nyti.ms/2yC42cW">New York Times</a>
 
 Trisos, C., C. Merow, A. Pigot. The projected timing of abrupt ecological disruption from climate change. 2020. Nature. 580: 496-501.
-* Covered by the <a href = "https://nyti.ms/2yfAmCb">New York Times</a> and Scientific American 
+* Covered by the <a href = "https://nyti.ms/2yfAmCb">New York Times</a> and <a href = "https://www.scientificamerican.com/article/rising-temperatures-may-push-ecosystems-past-their-limits/">Scientific American</a> 
 * Altmetric score: 2047; Top 5% of coverage in papers scored by Altmetrics
 
 Zurell, D., J. Franklin, P.J. Bouchet, J.M. Serra-Diaz, C. F. Dormann, J. Elith, G. F. Guzman, X. Feng, G. Guillera-Arroita, A. Guisan, C. König, P. J. Leitão, J. J. Lahoz-Monfort, D. S. Park, A. T. Peterson, G. Rapacciuolo, D. Schmatz, B. Schröder, W. Thuiller, K. L. Yates, N. E. Zimmermann, C. Merow. A standard protocol for describing species distribution models. 2020. Ecography. In press.
