@@ -5,6 +5,11 @@ permalink: /publications/
 
 
 Hannah, L., P. R. Roehrdanz, P. A. Marquet, B. J. Enquist, G. Midgley, W. Foden, J. C. Lovett, R. Corlett, D. Corcoran, S. Butchart, B. Boyle, X. Feng, B. Maitner, J. Fajardo, B. J. McGill, C. Merow, N. Morueta-Holme, E. A. Newman, D. S. Park, J. Svenning. 30% land conservation and climate action reduces tropical extinction risk by more than 50%. 2020. Ecography. 43: 943-953.
+* *Ecography Editor's Choice*
+* Subject of Ecography's first ever <a href = "https://soundcloud.com/george-chan-838071481/climate-change-how-much-land-do-we-need-to-protect-to-prevent-mass-extinctions">podcast</a>
+* <a href = "https://www.youtube.com/watch?v=LKHHYAWvNe4">Video Abstract</a>
+* Wide press coverage (e.g. <a href = "https://www.scientificamerican.com/article/how-to-dramatically-curb-extinction/">Scientific American</a> )
+
 
 Merow, C., M. Urban. 2020. Seasonality and uncertainty in global COVID-19 growth rates. Proceedings of the National Academy of Sciences. In press.
 Covered by the New York Times
