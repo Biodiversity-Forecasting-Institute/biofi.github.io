@@ -15,8 +15,8 @@ Merow, C., M. Urban. 2020. Seasonality and uncertainty in global COVID-19 growth
 * Covered by the <a href = "https://nyti.ms/2yC42cW">New York Times</a>
 
 Trisos, C., C. Merow, A. Pigot. The projected timing of abrupt ecological disruption from climate change. 2020. Nature. 580: 496-501.
-Covered by the New York Times and Scientific American 
-Altmetric score: 2047; Top 5% of coverage in papers scored by Altmetrics
+* Covered by the <a href = "https://nyti.ms/2yfAmCb">New York Times</a> and Scientific American 
+* Altmetric score: 2047; Top 5% of coverage in papers scored by Altmetrics
 
 Zurell, D., J. Franklin, P.J. Bouchet, J.M. Serra-Diaz, C. F. Dormann, J. Elith, G. F. Guzman, X. Feng, G. Guillera-Arroita, A. Guisan, C. König, P. J. Leitão, J. J. Lahoz-Monfort, D. S. Park, A. T. Peterson, G. Rapacciuolo, D. Schmatz, B. Schröder, W. Thuiller, K. L. Yates, N. E. Zimmermann, C. Merow. A standard protocol for describing species distribution models. 2020. Ecography. In press.
 
