@@ -18,7 +18,12 @@ Amy’s research focuses on the integration of remote sensing, GIScience, and la
 
 
 ### Cory Merow
-If it has more than one point, he can model it.
+*If it has more than one point, he can model it.*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merow.jpg?raw=true" alt="Cory" width=200 />
+
+Cory is a quantitative ecologist interested in forecasting population, community, and ecosystem responses to environmental change. Even the best data sets are imperfect for predicting global change responses, so he develops tools to combine data sources to gain insights into how biological systems may change.
+
 
 ### Laura Duncanson
 Return of the GEDI.
