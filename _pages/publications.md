@@ -12,7 +12,7 @@ Hannah, L., P. R. Roehrdanz, P. A. Marquet, B. J. Enquist, G. Midgley, W. Foden,
 
 
 Merow, C., M. Urban. 2020. Seasonality and uncertainty in global COVID-19 growth rates. Proceedings of the National Academy of Sciences. In press.
-Covered by the New York Times
+* Covered by the <a href = "https://nyti.ms/2yC42cW">New York Times</a>
 
 Trisos, C., C. Merow, A. Pigot. The projected timing of abrupt ecological disruption from climate change. 2020. Nature. 580: 496-501.
 Covered by the New York Times and Scientific American 
