@@ -49,7 +49,7 @@ Cesar is a plant ecophysiologist focusing on integrating physiological processes
 ### Brian S. Maitner
 *Postdoctoral Scholar, Speculative Macroecology Group, University of Connecticut*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true" alt="Brian" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/brian-s-maitner.jpg?raw=true" alt="Brian" width=200 />
 
 Brian is broadly interested in the forces that generate and maintain biodiversity across different groups of organisms.
 
