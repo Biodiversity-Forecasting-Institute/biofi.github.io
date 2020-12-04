@@ -19,7 +19,9 @@ permalink: /members/
 *Returns of the GEDI.*
 
 ### Brian J. Enquist
-*Making Allometry Great Again.*
+*Department of Ecology and Evolutionary Biology, The University of Arizona*
+
+Making Allometry Great Again.
 
 ### Nicola Falco
 
