@@ -9,6 +9,7 @@ permalink: /members/
 
 ### Diogo Araujo
 
+### Teresa Bohner
 
 ### Derek Corcoran
 *Postdoctoral Scholar, Speculative Macroecology Group, University of Connecticut*
@@ -20,6 +21,8 @@ permalink: /members/
 ### Brian J. Enquist
 *Making Allometry Great Again.*
 
+### Nicola Falco
+
 ### Amy E. Frazier
 
 Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
@@ -28,15 +31,28 @@ Amy is an Assistant Professor and core faculty in the Spatial Analysis Research 
 
 Amy’s research focuses on the integration of remote sensing, GIScience, and landscape ecology to study global environmental change. Specifically, she investigates how advances in GIS and remote sensing classification science can be used to overcome the challenges that result when using remote sensing or aggregated GIS data to study ground-based phenomena at different spatial scales. 
 
+### Lee Hannah
+*Conservation International*
+
 
 ### Kang He
 
 
+### Cesar Hinojo Hinojo
+*Postdoctoral researcher, Department of Ecology and Evolutionary Biology, The University of Arizona*
+
+Cesar is a plant ecophysiologist focusing on integrating physiological processes, plant traits and remote sensing to improve our understanding and assessment of ecosystem function across space and time. 
+
+
 ### Brian S. Maitner
 *Postdoctoral Scholar, Speculative Macroecology Group, University of Connecticut*
+
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Maitner_1.jpg?raw=true" alt="Brian" width=200 />
 
 Brian is broadly interested in the forces that generate and maintain biodiversity across different groups of organisms.
+
+### Nirav Merchant
+
 
 ### Cory Merow
 *University of Connecticut*
@@ -70,3 +86,9 @@ Patrick grew up in Fargo, ND and holds degrees in environmental science and mana
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Wainwright.png?raw=true" alt="Haruko" width=200 />
 
 Haruko Wainwright’s research focuses on environmental informatics, aiming to improve understanding and predictions in Earth and environmental systems through mechanistic modeling and machine learning. In particular, she has been developing methodology to integrate multi-type and multiscale datasets (e.g., point samples, geophysical data, and drone/airborne/satellite remote sensing data) for estimating spatially heterogeneous subsurface and ecosystem properties. She works on broader topics, including watershed science, Arctic ecosystem science, agricultural ecosystem science, environmental contamination and remediation, and radiation monitoring.
+
+
+
+
+
+
