@@ -8,6 +8,15 @@ permalink: /members/
 ### Brian J. Enquist
 Making allometry great again.
 
+### Amy E. Frazier
+
+Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Frazier.png?raw=true" alt="Amy" width=200 />
+
+Amy’s research focuses on the integration of remote sensing, GIScience, and landscape ecology to study global environmental change. Specifically, she investigates how advances in GIS and remote sensing classification science can be used to overcome the challenges that result when using remote sensing or aggregated GIS data to study ground-based phenomena at different spatial scales. 
+
+
 ### Cory Merow
 If it has more than one point, he can model it.
 
