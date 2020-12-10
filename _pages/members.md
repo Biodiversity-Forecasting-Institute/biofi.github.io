@@ -11,6 +11,12 @@ permalink: /members/
 
 ### Teresa Bohner
 
+### Adam Chmurzynski
+*PhD student, Department of Ecology and Evolutionary Biology, University of Arizona*
+
+Adam brings a background in computer science to environmental science and education by creating new ways of visualizing and interacting with biodiversity data. He is creating an interactive web visualization depicting the present and future locations of hundreds of thousands of species on Earth, as well as other regional and global forecasting outputs of the Institute.
+
+
 ### Derek Corcoran
 *Postdoctoral Scholar, Speculative Macroecology Group, University of Connecticut*
 
@@ -82,6 +88,7 @@ Patrick grew up in Fargo, ND and holds degrees in environmental science and mana
 
 ### Xinyi Shen
 
+Xinyi is a hydrologist and geographer. Based on numerical, AI, and statistical modeling using hydrometeorological and satellite remote sensing data, his current research focus is on the near-real-time (NRT) and forecast of flooding, the assessment and analysis of the socioeconomic impact of flooding, the risk of compound floods, and the interaction between natural disasters and ecology. He developed a few versions of distributed hydrological/land surface process models, a Synthetic Aperture Radar (SAR) based flood mapping system providing NRT maps to federal agencies and international natural disaster organizations, and the global distributed geomorphological dataset.
 
 ### Haruko Wainwright
 
