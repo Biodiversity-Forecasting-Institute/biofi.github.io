@@ -26,7 +26,10 @@ Adam brings a background in computer science to environmental science and educat
 
 
 ### Laura Duncanson
-*Returns of the GEDI.*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" alt="Laura" width=200 />
+
+Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
 
 ### Brian J. Enquist
 *Department of Ecology and Evolutionary Biology, The University of Arizona*
@@ -36,10 +39,11 @@ Making Allometry Great Again.
 ### Nicola Falco
 
 ### Nico Franz
+* Arizona State University *
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/nmfranz.png?raw=true" alt="Nico" width=200 />
 
 Nico Franz is a Professor and Curator of Insects in the School of Life Sciences at Arizona State University. His research focuses on the systematics and evolutionary history of weevils (plant-feeding beetles). Nico is also an academic leader of the popular Symbiota software platform for publishing and networking biocollections data. He directs the ASU Biocollections and Biodiversity Knowledge Integration Center (BioKIC), and is the principal investigator of the National Ecological Observatory Network (NEON) Biorepository. 
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/nmfranz.png?raw=true" alt="Nico" width=200 />
 
 
 ### Amy E. Frazier
