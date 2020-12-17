@@ -2,7 +2,7 @@
 layout: splash
 permalink: /publications/
 ---
-###Publications
+### Publications
 
 Hannah, L., P. R. Roehrdanz, P. A. Marquet, B. J. Enquist, G. Midgley, W. Foden, J. C. Lovett, R. Corlett, D. Corcoran, S. Butchart, B. Boyle, X. Feng, B. Maitner, J. Fajardo, B. J. McGill, C. Merow, N. Morueta-Holme, E. A. Newman, D. S. Park, J. Svenning. 30% land conservation and climate action reduces tropical extinction risk by more than 50%. 2020. Ecography. 43: 943-953.
 * *Ecography Editor's Choice*
