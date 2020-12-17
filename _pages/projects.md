@@ -3,6 +3,7 @@ layout: splash
 permalink: /projects/
 ---
 
+# Projects
 
 ### Cascading Hazards in Australia
 
