@@ -31,6 +31,13 @@ Making Allometry Great Again.
 
 ### Nicola Falco
 
+### Nico Franz
+
+Nico Franz is a Professor and Curator of Insects in the School of Life Sciences at Arizona State University. His research focuses on the systematics and evolutionary history of weevils (plant-feeding beetles). Nico is also an academic leader of the popular Symbiota software platform for publishing and networking biocollections data. He directs the ASU Biocollections and Biodiversity Knowledge Integration Center (BioKIC), and is the principal investigator of the National Ecological Observatory Network (NEON) Biorepository. 
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/nmfranz.png?raw=true" alt="Nico" width=200 />
+
+
 ### Amy E. Frazier
 
 Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
