@@ -15,7 +15,10 @@ Manos is Board of Trustees Distinguished Professor of Civil and Environmental En
 ### Diogo Araujo
 
 ### Teresa Bohner
-*Postdoctoral scholar, Department of Ecology and Evolutionary Biology, University of Arizona*
+*Postdoctoral researcher, Department of Ecology and Evolutionary Biology, University of Arizona*
+
+Teresa is interested in how plant communities are responding to a changing climate with a focus on forest responses to drought.  She brings a background in population and community ecology as well as dendrochronology.
+
 
 ### Adam Chmurzynski
 *PhD student, Department of Ecology and Evolutionary Biology, University of Arizona*
@@ -42,6 +45,7 @@ Making Allometry Great Again.
 
 ### Nico Franz
 *Arizona State University*
+
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/nmfranz.png?raw=true" alt="Nico" width=200 />
 
 Nico Franz is a Professor and Curator of Insects in the School of Life Sciences at Arizona State University. His research focuses on the systematics and evolutionary history of weevils (plant-feeding beetles). Nico is also an academic leader of the popular Symbiota software platform for publishing and networking biocollections data. He directs the ASU Biocollections and Biodiversity Knowledge Integration Center (BioKIC), and is the principal investigator of the National Ecological Observatory Network (NEON) Biorepository. 
@@ -51,9 +55,9 @@ Nico Franz is a Professor and Curator of Insects in the School of Life Sciences 
 ### Amy E. Frazier
 *Arizona State University*
 
-Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
-
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Frazier.png?raw=true" alt="Amy" width=200 />
+
+Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
 
 Amy’s research focuses on the integration of remote sensing, GIScience, and landscape ecology to study global environmental change. Specifically, she investigates how advances in GIS and remote sensing classification science can be used to overcome the challenges that result when using remote sensing or aggregated GIS data to study ground-based phenomena at different spatial scales. 
 
@@ -89,6 +93,7 @@ Cory is a quantitative ecologist interested in forecasting population, community
 
 ### Thymios Nikolopoulos
 *Florida Institute of Technology*
+
 Thymios is Assistant Professor in Hydrology and Water Resources at the department of Mechanical and Civil Engineering at Florida Institute of Technology. His work focuses on the integration of climate data from remote sensing and global climate models with numerical and statistical modeling to advance understanding and predictability of the changes of water cycle components. Specifically, he develops global hazard layers and utilizes state-of-art statistical approaches to investigate the changes in severity, duration and frequency of climate extremes and associated hazards (droughts and floods) at global scale.
 
 
