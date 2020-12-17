@@ -7,6 +7,10 @@ permalink: /members/
 
 ### Manos Anagnoustou
 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/manos.jpg?raw=true" alt="Manos" width=200 />
+
+Manos is Board of Trustees Distinguished Professor of Civil and Environmental Engineering and Eversource Energy Endowed Chair of Environmental Engineering. My research interests lie at the intersection of remote sensing with hydrology and hydrometeorology, with particular focus on the nexus of climate and weather extremes and water-energy-food systems and associated impacts on human security.
+
 ### Diogo Araujo
 
 ### Teresa Bohner
