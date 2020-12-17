@@ -67,6 +67,9 @@ Amy’s research focuses on the integration of remote sensing, GIScience, and la
 
 ### Kang He
 
+###Benjamin Hemingway
+*Postdoctoral Research Scholar, School of Geographical Sciences and Urban Planning, Arizona State University*
+
 
 ### Cesar Hinojo Hinojo
 *Postdoctoral researcher, Department of Ecology and Evolutionary Biology, The University of Arizona*
