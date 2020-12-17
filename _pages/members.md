@@ -67,9 +67,12 @@ Amy’s research focuses on the integration of remote sensing, GIScience, and la
 
 ### Kang He
 
-###Benjamin Hemingway
+### Benjamin Hemingway
 *Postdoctoral Research Scholar, School of Geographical Sciences and Urban Planning, Arizona State University*
 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/hemingway.png?raw=true" alt="Ben" width=200 />
+
+Benjamin has research interests in remote sensing and spatial statistics. He has experience utilizing unmanned aircraft systems and ground-based measurements to uncover the scales at which environmental processes are operating. 
 
 ### Cesar Hinojo Hinojo
 *Postdoctoral researcher, Department of Ecology and Evolutionary Biology, The University of Arizona*
