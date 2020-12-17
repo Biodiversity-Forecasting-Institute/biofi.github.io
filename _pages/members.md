@@ -6,6 +6,7 @@ permalink: /members/
 # Members
 
 ### Manos Anagnoustou
+*University of Connecticut*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/manos.jpg?raw=true" alt="Manos" width=200 />
 
@@ -14,6 +15,7 @@ Manos is Board of Trustees Distinguished Professor of Civil and Environmental En
 ### Diogo Araujo
 
 ### Teresa Bohner
+*Postdoctoral scholar, Department of Ecology and Evolutionary Biology, University of Arizona*
 
 ### Adam Chmurzynski
 *PhD student, Department of Ecology and Evolutionary Biology, University of Arizona*
@@ -39,7 +41,7 @@ Making Allometry Great Again.
 ### Nicola Falco
 
 ### Nico Franz
-* Arizona State University *
+*Arizona State University*
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/nmfranz.png?raw=true" alt="Nico" width=200 />
 
 Nico Franz is a Professor and Curator of Insects in the School of Life Sciences at Arizona State University. His research focuses on the systematics and evolutionary history of weevils (plant-feeding beetles). Nico is also an academic leader of the popular Symbiota software platform for publishing and networking biocollections data. He directs the ASU Biocollections and Biodiversity Knowledge Integration Center (BioKIC), and is the principal investigator of the National Ecological Observatory Network (NEON) Biorepository. 
@@ -47,6 +49,7 @@ Nico Franz is a Professor and Curator of Insects in the School of Life Sciences 
 
 
 ### Amy E. Frazier
+*Arizona State University*
 
 Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
 
@@ -78,20 +81,19 @@ Brian is broadly interested in the forces that generate and maintain biodiversit
 
 
 ### Cory Merow
-*University of Connecticut*
+*Speculative Macroecology Group, University of Connecticut*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merow.jpg?raw=true" alt="Cory" width=200 />
 
 Cory is a quantitative ecologist interested in forecasting population, community, and ecosystem responses to environmental change. Even the best data sets are imperfect for predicting global change responses, so he develops tools to combine data sources to gain insights into how biological systems may change.
 
 ### Thymios Nikolopoulos
+*Florida Institute of Technology*
 Thymios is Assistant Professor in Hydrology and Water Resources at the department of Mechanical and Civil Engineering at Florida Institute of Technology. His work focuses on the integration of climate data from remote sensing and global climate models with numerical and statistical modeling to advance understanding and predictability of the changes of water cycle components. Specifically, he develops global hazard layers and utilizes state-of-art statistical approaches to investigate the changes in severity, duration and frequency of climate extremes and associated hazards (droughts and floods) at global scale.
 
 
 ### Patrick R. Roehrdanz
-*Manager, Spatial Planning for Area Conservation in Response to Climate Change (SPARC)*
-
-Moore Center for Science, Conservation International
+*Moore Center for Science, Conservation International*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Roehrdanz.jpg?raw=true" alt="Patrick" width=200 />
 
