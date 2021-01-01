@@ -42,6 +42,11 @@ Laura Duncanson is a remote sensing scientist with research interests in forest 
 Making Allometry Great Again.
 
 ### Nicola Falco
+*Research scientist, Earth and Environmental Sciences Area, Lawrence Berkeley National Laboratory*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/falco.jpg?raw=true" alt="Nicola" width=200 />
+
+Nicola is an Earth research scientist at the Earth and Environmental Sciences Area at Lawrence Berkeley National Laboratory. Nicola’s research focuses on remote sensing data analysis and processing with applications in environmental monitoring, climate change, and precision agriculture. Its work concentrates on the development of methodologies for multi-source, multi-modal data analysis and integration of remote sensing (hyperspectral, LiDAR, high-resolution) with in-situ measurements, as well as geophysical data, to investigate key environmental drivers in both natural and managed ecosystems. 
 
 ### Nico Franz
 *Arizona State University*
