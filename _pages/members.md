@@ -119,6 +119,11 @@ Patrick brings over a decade of experience in spatial analysis with a focus on c
 
 Patrick grew up in Fargo, ND and holds degrees in environmental science and management from University of California, Santa Barbara and geology from Carleton College in Minnesota. 
 
+### Elizabeth B.-N. Sanders
+
+Liz Sanders is a visionary in co-design research, having introduced many of the tools, techniques and methods being used today to drive and/or inspire design from a human-centered perspective. Liz has practiced co-designing across all the design disciplines. Her current focus is on bringing participatory design thinking and co-creation practices to the challenges we face for the future.
+
+
 ### Xinyi Shen
 
 Xinyi is a hydrologist and geographer. Based on numerical, AI, and statistical modeling using hydrometeorological and satellite remote sensing data, his current research focus is on the near-real-time (NRT) and forecast of flooding, the assessment and analysis of the socioeconomic impact of flooding, the risk of compound floods, and the interaction between natural disasters and ecology. He developed a few versions of distributed hydrological/land surface process models, a Synthetic Aperture Radar (SAR) based flood mapping system providing NRT maps to federal agencies and international natural disaster organizations, and the global distributed geomorphological dataset.
