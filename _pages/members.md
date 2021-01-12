@@ -44,7 +44,9 @@ Laura Duncanson is a remote sensing scientist with research interests in forest 
 ### Brian J. Enquist
 *Department of Ecology and Evolutionary Biology, The University of Arizona*
 
-Making Allometry Great Again.
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Enquist.jpg?raw=true" alt="Enquist" width=200 />
+
+Brian Enquist's lab investigates how functional constraints at the level of the individual (anatomical and physiological) influence larger scale ecological and evolutionary patterns. He is a broadly trained plant ecologist.
 
 ### Nicola Falco
 *Research scientist, Earth and Environmental Sciences Area, Lawrence Berkeley National Laboratory*
