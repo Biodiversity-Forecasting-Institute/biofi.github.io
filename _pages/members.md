@@ -105,6 +105,8 @@ Cory is a quantitative ecologist interested in forecasting population, community
 ### Thymios Nikolopoulos
 *Florida Institute of Technology*
 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Thymios.jpg?raw=true" alt="Thymios" width=200 />
+
 Thymios is Assistant Professor in Hydrology and Water Resources at the department of Mechanical and Civil Engineering at Florida Institute of Technology. His work focuses on the integration of climate data from remote sensing and global climate models with numerical and statistical modeling to advance understanding and predictability of the changes of water cycle components. Specifically, he develops global hazard layers and utilizes state-of-art statistical approaches to investigate the changes in severity, duration and frequency of climate extremes and associated hazards (droughts and floods) at global scale.
 
 
