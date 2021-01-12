@@ -13,6 +13,11 @@ permalink: /members/
 Manos is Board of Trustees Distinguished Professor of Civil and Environmental Engineering and Eversource Energy Endowed Chair of Environmental Engineering. My research interests lie at the intersection of remote sensing with hydrology and hydrometeorology, with particular focus on the nexus of climate and weather extremes and water-energy-food systems and associated impacts on human security.
 
 ### Diogo Araujo
+*Department of Mechanical and Civil Engineering, Florida Institute of Technology*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Araujo.jpg?raw=true" alt="Diogo" width=200 />
+
+Diogo is a PhD Student at the Department of Mechanical and Civil Engineering at Florida Institute of Technology. His work focuses on the analysis of changes in hydraulic extremes characteristics, such as droughts, under future climate projections. Specifically, he applies a statistical framework to identify drought events and its main characteristics (severity, duration, frequency) on climate data from remote sensing and global climate models (GCM) datasets.
 
 ### Teresa Bohner
 *Postdoctoral researcher, Department of Ecology and Evolutionary Biology, University of Arizona*
