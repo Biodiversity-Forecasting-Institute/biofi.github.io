@@ -38,7 +38,7 @@ Adam brings a background in computer science to environmental science and educat
 
 
 ### Laura Duncanson
-
+*Department of Geographical Science, University of Maryland*
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" alt="Laura" width=200 />
 
 Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
@@ -78,8 +78,11 @@ Amy’s research focuses on the integration of remote sensing, GIScience, and la
 ### Lee Hannah
 *Conservation International*
 
+Lee Hannah is a conservation ecologist and a Senior Researcher in Climate Change Biology at Conservation International. 
 
 ### Kang He
+*University of Connecticut*
+
 
 ### Benjamin Hemingway
 *Postdoctoral Research Scholar, School of Geographical Sciences and Urban Planning, Arizona State University*
@@ -102,7 +105,7 @@ Cesar is a plant ecophysiologist focusing on integrating physiological processes
 Brian is broadly interested in the forces that generate and maintain biodiversity across different groups of organisms.
 
 ### Nirav Merchant
-
+*University of Arizona*
 
 ### Cory Merow
 *Speculative Macroecology Group, University of Connecticut*
@@ -131,15 +134,18 @@ Patrick brings over a decade of experience in spatial analysis with a focus on c
 Patrick grew up in Fargo, ND and holds degrees in environmental science and management from University of California, Santa Barbara and geology from Carleton College in Minnesota. 
 
 ### Elizabeth B.-N. Sanders
+*Department of Design, The Ohio State University*
 
 Liz Sanders is a visionary in co-design research, having introduced many of the tools, techniques and methods being used today to drive and/or inspire design from a human-centered perspective. Liz has practiced co-designing across all the design disciplines. Her current focus is on bringing participatory design thinking and co-creation practices to the challenges we face for the future.
 
 
 ### Xinyi Shen
+*University of Connecticut*
 
 Xinyi is a hydrologist and geographer. Based on numerical, AI, and statistical modeling using hydrometeorological and satellite remote sensing data, his current research focus is on the near-real-time (NRT) and forecast of flooding, the assessment and analysis of the socioeconomic impact of flooding, the risk of compound floods, and the interaction between natural disasters and ecology. He developed a few versions of distributed hydrological/land surface process models, a Synthetic Aperture Radar (SAR) based flood mapping system providing NRT maps to federal agencies and international natural disaster organizations, and the global distributed geomorphological dataset.
 
 ### Haruko Wainwright
+*Lawrence Berkeley National Laboratory*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Wainwright.png?raw=true" alt="Haruko" width=200 />
 
