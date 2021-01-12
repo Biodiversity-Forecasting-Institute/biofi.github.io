@@ -34,6 +34,8 @@ Adam brings a background in computer science to environmental science and educat
 ### Derek Corcoran
 *Postdoctoral Scholar, Speculative Macroecology Group, University of Connecticut*
 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Corcoran.jpg?raw=true" alt="Derek" width=200 />
+
 
 ### Laura Duncanson
 
