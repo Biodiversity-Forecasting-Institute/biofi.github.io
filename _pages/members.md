@@ -3,6 +3,9 @@ layout: splash
 permalink: /members/
 ---
 
+{% include network.html %}
+
+
 # Members
 
 ### Manos Anagnoustou
