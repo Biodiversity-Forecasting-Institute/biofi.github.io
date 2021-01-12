@@ -1,6 +1,6 @@
 ---
-title: "Network"
-date: "`r Sys.Date()`"
+layout: splash
+permalink: /members/
 ---
 
 ```{r setup, include=FALSE}
