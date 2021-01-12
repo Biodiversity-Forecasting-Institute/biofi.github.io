@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /members/
+permalink: /network/
 ---
 
 ```{r setup, include=FALSE}
