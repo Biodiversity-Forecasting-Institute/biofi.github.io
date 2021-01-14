@@ -23,20 +23,15 @@ The Native Species Resolver (NSR) categorizes plant occurrence records as native
 The Geographic Name Resolution Service (GNRS) cleans and standardizes political division names based on geonames.org and GADM standards.
 
 
-### occCite
+### <a href = "https://cran.r-project.org/package=occCite">occCite</a>
 
 occCite downloads species occurrence data while maintaining citation information to ensure that proper credit is maintained.
 
-https://cran.r-project.org/package=occCite
-
 # Web Applications
 
-### GCMcompareR
+### <a href = "https://ecoinformatica.net/GCMcompareR.html">GCMcompareR</a>
 
 GCMcompareR is designed to compare general circulation models (GCMs) and different climate change scenarios to provide full, documented exploration of the possible alternative futures from within the range of projections in CMIP5 climate models.
-
-https://ecoinformatica.net/GCMcompareR.html
-
 
 # Code from publications
 *Coming soon!*
