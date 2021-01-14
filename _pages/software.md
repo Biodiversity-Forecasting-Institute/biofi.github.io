@@ -6,30 +6,22 @@ permalink: /software/
 
 # R packages
 
-### <a href = "https://cran.r-project.org/package=BIEN">BIEN</a>BIEN
+### <a href = "https://cran.r-project.org/package=BIEN">BIEN</a>
 
 BIEN is an R package that allows users to easily download various types of plant data (e.g. occurrence records, range maps, trait data)
 
-https://cran.r-project.org/package=BIEN
-
-
-### TNRS
+### <a href = "https://github.com/EnquistLab/RTNRS">TNRS</a>
 
 The Taxonomic Name Resolution Service (TNRS) cleans and standardizes plant scientific names.
 
-https://github.com/EnquistLab/RTNRS
-
-### NSR
+### <a href = "https://github.com/EnquistLab/RNSR">NSR</a>
 
 The Native Species Resolver (NSR) categorizes plant occurrence records as native or non-native, and provides details on how this decision was made.
 
-https://github.com/EnquistLab/RNSR
-
-### GNRS
+### <a href = "https://cran.r-project.org/package=GNRS">GNRS</a>
 
 The Geographic Name Resolution Service (GNRS) cleans and standardizes political division names based on geonames.org and GADM standards.
 
-https://cran.r-project.org/package=GNRS
 
 ### occCite
 
