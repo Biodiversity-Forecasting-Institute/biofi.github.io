@@ -6,7 +6,7 @@ permalink: /software/
 
 # R packages
 
-### BIEN
+### <a href = "https://cran.r-project.org/package=BIEN">BIEN</a>BIEN
 
 BIEN is an R package that allows users to easily download various types of plant data (e.g. occurrence records, range maps, trait data)
 
@@ -36,6 +36,8 @@ https://cran.r-project.org/package=GNRS
 occCite downloads species occurrence data while maintaining citation information to ensure that proper credit is maintained.
 
 https://cran.r-project.org/package=occCite
+
+# Web Applications
 
 ### GCMcompareR
 
