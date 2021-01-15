@@ -103,7 +103,7 @@ Cesar is a plant ecophysiologist focusing on integrating physiological processes
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/brian-s-maitner.jpg?raw=true" alt="Brian" width=200 />
 
-Brian is broadly interested in the forces that generate and maintain biodiversity across different groups of organisms.
+Brian is a macroecologist and community ecologist who is interested in the origin, maintenance, and conservation of biodiversity.  He focuses on phylogenetic and trait-based approaches to quantifying diversity, and is interested in generalities across different systems.
 
 ### Nirav Merchant
 *University of Arizona*
