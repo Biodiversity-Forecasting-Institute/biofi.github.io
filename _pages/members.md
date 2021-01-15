@@ -58,6 +58,13 @@ Brian is a Professor in the <a href = "https://eeb.arizona.edu/">Department of E
 
 Nicola is an Earth research scientist at the Earth and Environmental Sciences Area at Lawrence Berkeley National Laboratory. Nicola’s research focuses on remote sensing data analysis and processing with applications in environmental monitoring, climate change, and precision agriculture. Its work concentrates on the development of methodologies for multi-source, multi-modal data analysis and integration of remote sensing (hyperspectral, LiDAR, high-resolution) with in-situ measurements, as well as geophysical data, to investigate key environmental drivers in both natural and managed ecosystems. 
 
+### Xiao Feng
+*Assistant Professor, Department of Geography, Florida State University*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/feng.png?raw=true" alt="Xiao" width=200 />
+
+Xiao Feng is a quantitative ecologist and biogeographer, interested in macroecological patterns (e.g. biogeography & biodiversity) and emerging environmental issues under global change. He mainly uses statistical models and computational informatics to answer ecological and biogeographic questions in a broad spatial context. 
+
 ### Nico Franz
 *Arizona State University*
 
