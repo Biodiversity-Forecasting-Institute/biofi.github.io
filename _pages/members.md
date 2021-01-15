@@ -47,9 +47,9 @@ Laura Duncanson is a remote sensing scientist with research interests in forest 
 ### Brian J. Enquist
 *Department of Ecology and Evolutionary Biology, The University of Arizona*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Enquist.jpg?raw=true" alt="Enquist" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Enquist.png?raw=true" alt="Enquist" width=200 />
 
-Brian Enquist's lab investigates how functional constraints at the level of the individual (anatomical and physiological) influence larger scale ecological and evolutionary patterns. He is a broadly trained plant ecologist.
+Brian is a Professor in the <a href = "https://eeb.arizona.edu/">Department of Ecology and Evolutionary Biology</a> at the University of Arizona. He is also an external Professor at the <a href = "https://www.santafe.edu/">Santa Fe Institute</a>, a theoretical research institute dedicated to the multidisciplinary study of the fundamental principles of complex adaptive systems, including physical, computational, biological, and social systems. He is the Co-director and founder of the <a href = "https://bbcs.arizona.edu/">Bridging Biodiversity and Conservation Science group</a> at the University of Arizona. Brian is a broadly trained plant biologist and ecologist. His collaborative lab group strives to develop a more integrative, quantitative, and predictive framework for biology, biodiversity Science and large-scale ecology. In particular, his lab aims to link biological measures across spatial and temporal scales in ecology and evolution. 
 
 ### Nicola Falco
 *Research scientist, Earth and Environmental Sciences Area, Lawrence Berkeley National Laboratory*
